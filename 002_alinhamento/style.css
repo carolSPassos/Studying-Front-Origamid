@@ -1,0 +1,29 @@
+.meunome {
+  background: #aaa;
+  height: 80px;
+  width: 140px;
+  padding: 30px;
+  border: 10px solid #111;
+  margin: 30px;
+}
+
+h1 {
+  background: #84e;
+  padding: 20px;
+  border: 4px solid #111;
+  margin: 20px;
+  /*a margem no css que sobressai é a maior*/
+}
+
+h2 {
+  background-color: aqua;
+  padding: 10px;
+  border: 2px solid rgb(204, 51, 204);
+  font-size: 18px;
+  height: 40px;
+  width: 100px;
+}
+
+.meulink {
+  border: 1px solid rgb(255, 0, 0.5);
+}
